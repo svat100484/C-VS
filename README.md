@@ -12,7 +12,7 @@
     </p>
     <h3 style="color: #333333; font-family: Arial, sans-serif; font-size: 16px; margin-bottom: 5px;">🛠 Что внутри:</h3>
     <ul style="font-size: 14px; font-family: Arial, sans-serif; line-height: 1.7; list-style-type: square; color: #444444; margin-top: 0;">
-        <li><strong>Create Mod & Addons:</strong> Стройте автоматические фабрики, продвинутые механизмы и рабочие железные дороги благодаря аддонам <em>Steam 'n' Rails</em>, <em>Interactive</em> и <em>Clockwork</em>.</li>
+        <li><strong>C Mod & Addons:</strong> Стройте автоматические фабрики, продвинутые механизмы и рабочие железные дороги благодаря аддонам <em>Steam 'n' Rails</em>, <em>Interactive</em> и <em>Clockwork</em>.</li>
         <li><strong>Valkyrien Skies:</strong> Полноценная физика тел! Создавайте огромные летающие корабли, дирижабли и мобильные базы.</li>
         <li><strong>Immersive Vehicles:</strong> Реалистичный наземный и воздушный транспорт со сложной и аутентичной механикой управления.</li>
         <li><strong>CMD CAM & WorldEdit:</strong> Набор для контент-мейкеров. Записывайте синематики построек с плавным движением камеры.</li>
