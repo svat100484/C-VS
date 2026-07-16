@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-    <img src="filesystem:https://docs.google.com/persistent/docs/documents/1VrO6KhXh9EwxoXJ1p_CYy2CkREcnf_Tk7GYBLMDby1s/image/PLACEHOLDER_610dee8a0da98ba4_0" alt="Create + VS Logo" style="max-width: 400px; width: 100%; height: auto; border-radius: 0px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
+    <img src="https://docs.google.com/persistent/docs/documents/1VrO6KhXh9EwxoXJ1p_CYy2CkREcnf_Tk7GYBLMDby1s/image/PLACEHOLDER_610dee8a0da98ba4_0" alt="Create + VS Logo" style="max-width: 400px; width: 100%; height: auto; border-radius: 0px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
     <h1 style="color: #d4af37; font-family: Arial, sans-serif; margin-top: 15px; font-size: 32px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Create + VS</h1>
 </div>
 
