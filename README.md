@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 30px;">
-    <img src="[https://cloudflarestorage.com](https://messages-prod.27c852f3500f38c1e7786e2c9ff9e48f.r2.cloudflarestorage.com/019e98cb-32cd-7434-9e9c-1439ba7dfde2/1784231755404-019f6c7d-68f6-75f6-b647-1403dbdffafb.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=b33de61d4f22a31b59b25364ab5037c5%2F20260716%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260716T195556Z&X-Amz-Expires=3600&X-Amz-Signature=19a63615bd8701b48235b42fceb5632c865e0ef98797508c16562da9cf81c6d7&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)" alt="Create + VS Logo" style="max-width: 400px; width: 100%; height: auto; border-radius: 0px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
+    <img src="filesystem:https://docs.google.com/persistent/docs/documents/1VrO6KhXh9EwxoXJ1p_CYy2CkREcnf_Tk7GYBLMDby1s/image/PLACEHOLDER_610dee8a0da98ba4_0" alt="Create + VS Logo" style="max-width: 400px; width: 100%; height: auto; border-radius: 0px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2);">
     <h1 style="color: #d4af37; font-family: Arial, sans-serif; margin-top: 15px; font-size: 32px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">Create + VS</h1>
 </div>
 
