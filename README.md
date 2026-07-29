@@ -29,7 +29,7 @@
     </p>
     <h3 style="color: #333333; font-family: Arial, sans-serif; font-size: 16px; margin-bottom: 5px;">🛠 Key Features:</h3>
     <ul style="font-size: 14px; font-family: Arial, sans-serif; line-height: 1.7; list-style-type: square; color: #444444; margin-top: 0;">
-        <li><strong>Create Mod + Top Addons:</strong> Build fully automated factories and complex railways with <em>Steam 'n' Rails</em> and <em>Interactive</em> addons.</li>
+        <li><strong>Create Mod + Top Addons:</strong> Build fully automated factories and complex railways with <em>Steam 'n' Rails</em> and <em>Create interactive</em> addons.</li>
         <li><strong>Valkyrien Skies:</strong> True physics engine! Bring your blocks to life. Build functioning airships, flying fortresses, and massive ships.</li>
         <li><strong>Immersive Vehicles:</strong> Adds realistic ground and air transportation with authentic driving mechanics.</li>
         <li><strong>CMD CAM & WorldEdit:</strong> The ultimate toolset for content creators to record smooth, cinematic camera paths.</li>
